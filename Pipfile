@@ -13,6 +13,7 @@ flask-sqlalchemy = "*"
 flask-bcrypt = "*"
 flask-login = "*"
 pillow = "*"
+flask-mail = "*"
 
 [requires]
 python_version = "3.8"
